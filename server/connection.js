@@ -1,4 +1,4 @@
-var mysql = require('mysql');
+testvar mysql = require('mysql');
 function Connection(){
 this.pool=null;
 

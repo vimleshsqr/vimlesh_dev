@@ -1,4 +1,5 @@
 var connection = require('../connection');
+//testing by vimlesh rajput
 var users = {
 getAll: function(req, res) {
 	connection.acquire(function(err,con){
